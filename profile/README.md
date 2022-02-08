@@ -4,9 +4,13 @@ I make games and build code here on GitHub.
 
 One of my current GitHub+Roblox projects is GuiService, built only on Lua, Roblox's programming language!
 
-I really :heart: issues and pull requests, just one way you can help with my projects! :octocat:
 
-Need to choose a license for your project? Try using the [*choosealicense service*](https://choosealicense.com
+
+
+
+
+
+
 
 ***
 
