@@ -4,6 +4,12 @@ I make games and build code here on GitHub.
 
 One of my current GitHub+Roblox projects is GuiService, built only on Lua, Roblox's programming language!
 
+Programming languages I know:
+HTML - Moderate - since 2021
+CSS - High - since 2021
+Lua - Very High - since 2018
+Python - Low - since 2021
+JSON - Low - since 2022
 
 
 
@@ -12,9 +18,4 @@ One of my current GitHub+Roblox projects is GuiService, built only on Lua, Roblo
 
 
 
-***
 
-### Please donate through LiberaPay, it will help with more open-source projects for everyone!
-
-[![Donate through LiberaPay](https://img.shields.io/liberapay/receives/DavidTheDev?color=red&label=Donate%20to%20me%20through%20Liberapay&style=plastic)](https://liberapay.com/DavidTheDev)
-<br>
