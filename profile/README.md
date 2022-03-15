@@ -11,10 +11,11 @@ CSS - High - since 2021
 <br>
 Lua - Very High - since 2018
 <br>
-Python - Low - since 2021
+Python - Medium - since 2021
 <br>
 JSON - Low - since 2022
 <br>
+JavaScript - Just started - since 2022
 
 
 
