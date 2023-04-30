@@ -10,4 +10,4 @@ You can also [email me](mailto:david@davidstudios.uk?subject=Contact)
 
 
 
-**PLEASE NOTE: IF YOU ARE A BUSINESS INTERESTED IN DOING BUSINESS WITH US, PLEASE SEND A MESSAGE TO OUR[BUSINESS EMAIL](mailto:business@davidstudios.uk?subject=Contact&body=Place any relevant details (e.g emails) so that we can process your request faster. Please allow up to 72 hrs for a response.)**
+**PLEASE NOTE: IF YOU ARE A BUSINESS INTERESTED IN DOING BUSINESS WITH US, PLEASE SEND A MESSAGE TO OUR[BUSINESS EMAIL](mailto:business@davidstudios.uk?subject=Contact)**
